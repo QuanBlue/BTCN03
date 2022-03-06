@@ -1,0 +1,28 @@
+body {
+  padding: 20px;
+}
+
+h1 {
+	font-weight: bold;
+}
+
+input[type="text"]:disabled {
+	background: white;
+	border: 1px solid black;
+	border-radius: 2px;
+	padding: 3px;
+	color: green;
+}
+
+#table {
+	max-width: 500px;
+}
+
+#announce {
+	color: red;
+}
+
+#index {
+	font-style: italic;
+}
+
